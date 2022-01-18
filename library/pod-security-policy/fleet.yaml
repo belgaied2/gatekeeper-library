@@ -1,6 +1,4 @@
-namespace: fleet-opa-psp
-
-
+defaultNamespace: fleet-opa-psp
 kustomize:
   # To use a kustomization.yaml different from the one in the root folder
   dir: ""
